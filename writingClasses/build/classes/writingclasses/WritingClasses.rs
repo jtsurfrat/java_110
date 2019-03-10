@@ -1,0 +1,3 @@
+writingclasses.Stats
+writingclasses.WritingClasses
+writingclasses.StatsDataType
